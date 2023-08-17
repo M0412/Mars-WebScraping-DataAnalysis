@@ -21,6 +21,13 @@ This project consists of two parts, scrape titles and preview text from Mars new
     - How many months exist on Mars?
     - How many Martian (and not Earth) days worth of data exist in the scraped dataset?
     - What are the coldest and the warmest months on Mars (at the location of Curiosity)?
+![Alt text](images/avg_low_temp.png) 
+![Alt text](images/avg_min_temp.png)
+        
     - Which months have the lowest and the highest atmospheric pressure on Mars?
+![Alt text](images/avg_pressure.png)
+    
     - About how many terrestrial (Earth) days exist in a Martian year?
+![Alt text](images/terr_days.png)
+
 - Export the DataFrame to a CSV file.
