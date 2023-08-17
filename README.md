@@ -1,5 +1,5 @@
 # Mars-WebScraping-DataAnalysis
-This project consists of two parts, scrape titles and preview text from Mars news articles, and Scrape and analyze Mars weather data, which exists in a table.
+This project consists of two parts, scrape titles and preview text from Mars news articles, and scrape and analyze Mars weather data, which exists in a table.
 
 ### Deliverable 1: Scrape titles and preview text from Mars news articles by doing the following:
 
